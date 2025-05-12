@@ -1,0 +1,304 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Ravi Kumar",
+      "email": "ravi@gmail.com",
+      "course": "B.Tech"
+    },
+    {
+      "id": "2",
+      "name": "Anjali Sharma",
+      "email": "anjali@gmail.com",
+      "course": "MCA"
+    },
+    {
+      "id": "3",
+      "name": "Suresh Mehta",
+      "email": "suresh@gmail.com",
+      "course": "B.Sc"
+    },
+    {
+      "id": "4",
+      "name": "Pooja Rani",
+      "email": "pooja@gmail.com",
+      "course": "MBA"
+    },
+    {
+      "id": "5",
+      "name": "Manish Gupta",
+      "email": "manish@gmail.com",
+      "course": "B.Com"
+    },
+    {
+      "id": "6",
+      "name": "Neha Verma",
+      "email": "neha@gmail.com",
+      "course": "M.Tech"
+    },
+    {
+      "id": "7",
+      "name": "Amit Joshi",
+      "email": "amit@gmail.com",
+      "course": "B.Tech"
+    },
+    {
+      "id": "8",
+      "name": "Sneha Singh",
+      "email": "sneha@gmail.com",
+      "course": "BBA"
+    },
+    {
+      "id": "9",
+      "name": "Raj Patel",
+      "email": "raj@gmail.com",
+      "course": "MBA"
+    },
+    {
+      "id": "10",
+      "name": "Divya Nair",
+      "email": "divya@gmail.com",
+      "course": "B.Sc"
+    },
+    {
+      "id": "11",
+      "name": "Vikas Yadav",
+      "email": "vikas@gmail.com",
+      "course": "MCA"
+    },
+    {
+      "id": "12",
+      "name": "Swati Choudhary",
+      "email": "swati@gmail.com",
+      "course": "B.Com"
+    },
+    {
+      "id": "13",
+      "name": "Nitin Rawat",
+      "email": "nitin@gmail.com",
+      "course": "B.Tech"
+    },
+    {
+      "id": "14",
+      "name": "Ritu Jain",
+      "email": "ritu@gmail.com",
+      "course": "M.Sc"
+    },
+    {
+      "id": "15",
+      "name": "Karan Kapoor",
+      "email": "karan@gmail.com",
+      "course": "B.Sc"
+    },
+    {
+      "id": "16",
+      "name": "Tanya Mahajan",
+      "email": "tanya@gmail.com",
+      "course": "BCA"
+    },
+    {
+      "id": "17",
+      "name": "Raghav Saxena",
+      "email": "raghav@gmail.com",
+      "course": "B.Tech"
+    },
+    {
+      "id": "18",
+      "name": "Aarti Dubey",
+      "email": "aarti@gmail.com",
+      "course": "MCA"
+    },
+    {
+      "id": "19",
+      "name": "Deepak Sharma",
+      "email": "deepak@gmail.com",
+      "course": "MBA"
+    },
+    {
+      "id": "20",
+      "name": "Preeti Sinha",
+      "email": "preeti@gmail.com",
+      "course": "BBA"
+    },
+    {
+      "id": "21",
+      "name": "Sanjay Kumar",
+      "email": "sanjay@gmail.com",
+      "course": "M.Tech"
+    },
+    {
+      "id": "22",
+      "name": "Jyoti Khandelwal",
+      "email": "jyoti@gmail.com",
+      "course": "M.Sc"
+    },
+    {
+      "id": "23",
+      "name": "Harsh Vardhan",
+      "email": "harsh@gmail.com",
+      "course": "B.Tech"
+    },
+    {
+      "id": "24",
+      "name": "Meena Kumari",
+      "email": "meena@gmail.com",
+      "course": "B.Sc"
+    },
+    {
+      "id": "25",
+      "name": "Kunal Bhatt",
+      "email": "kunal@gmail.com",
+      "course": "MBA"
+    },
+    {
+      "id": "26",
+      "name": "Ankita Mishra",
+      "email": "ankita@gmail.com",
+      "course": "B.Com"
+    },
+    {
+      "id": "27",
+      "name": "Naveen Malhotra",
+      "email": "naveen@gmail.com",
+      "course": "MCA"
+    },
+    {
+      "id": "28",
+      "name": "Poonam Chauhan",
+      "email": "poonam@gmail.com",
+      "course": "BBA"
+    },
+    {
+      "id": "29",
+      "name": "Tarun Singh",
+      "email": "tarun@gmail.com",
+      "course": "B.Tech"
+    },
+    {
+      "id": "30",
+      "name": "Shruti Aggarwal",
+      "email": "shruti@gmail.com",
+      "course": "M.Tech"
+    },
+    {
+      "id": "31",
+      "name": "Varun Tiwari",
+      "email": "varun@gmail.com",
+      "course": "B.Sc"
+    },
+    {
+      "id": "32",
+      "name": "Nisha Rathi",
+      "email": "nisha@gmail.com",
+      "course": "BCA"
+    },
+    {
+      "id": "33",
+      "name": "Sameer Khan",
+      "email": "sameer@gmail.com",
+      "course": "MBA"
+    },
+    {
+      "id": "34",
+      "name": "Rashmi Srivastava",
+      "email": "rashmi@gmail.com",
+      "course": "B.Com"
+    },
+    {
+      "id": "35",
+      "name": "Abhishek Meena",
+      "email": "abhishek@gmail.com",
+      "course": "B.Tech"
+    },
+    {
+      "id": "36",
+      "name": "Garima Yadav",
+      "email": "garima@gmail.com",
+      "course": "M.Sc"
+    },
+    {
+      "id": "37",
+      "name": "Suraj Dubey",
+      "email": "suraj@gmail.com",
+      "course": "BCA"
+    },
+    {
+      "id": "38",
+      "name": "Lavanya Joshi",
+      "email": "lavanya@gmail.com",
+      "course": "B.Sc"
+    },
+    {
+      "id": "39",
+      "name": "Aakash Sharma",
+      "email": "aakash@gmail.com",
+      "course": "BBA"
+    },
+    {
+      "id": "40",
+      "name": "Simran Chhabra",
+      "email": "simran@gmail.com",
+      "course": "MBA"
+    },
+    {
+      "id": "41",
+      "name": "Nikhil Rana",
+      "email": "nikhil@gmail.com",
+      "course": "B.Tech"
+    },
+    {
+      "id": "42",
+      "name": "Isha Jain",
+      "email": "isha@gmail.com",
+      "course": "MCA"
+    },
+    {
+      "id": "43",
+      "name": "Rahul Verma",
+      "email": "rahul@gmail.com",
+      "course": "M.Tech"
+    },
+    {
+      "id": "44",
+      "name": "Kirti Chaudhary",
+      "email": "kirti@gmail.com",
+      "course": "B.Sc"
+    },
+    {
+      "id": "45",
+      "name": "Mohit Sagar",
+      "email": "mohit@gmail.com",
+      "course": "BCA"
+    },
+    {
+      "id": "46",
+      "name": "Alka Jindal",
+      "email": "alka@gmail.com",
+      "course": "MBA"
+    },
+    {
+      "id": "47",
+      "name": "Prateek Raj",
+      "email": "prateek@gmail.com",
+      "course": "B.Com"
+    },
+    {
+      "id": "48",
+      "name": "Kavita Rathore",
+      "email": "kavita@gmail.com",
+      "course": "BBA"
+    },
+    {
+      "id": "50",
+      "name": "Divyanshi Rawal",
+      "email": "divyanshi@gmail.com",
+      "course": "MCA"
+    },
+    {
+      "id": "f04a",
+      "name": "Akshita Singh",
+      "email": "akshita@gmail.com",
+      "course": "B.Tech"
+    }
+  ]
+}
