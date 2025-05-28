@@ -20,22 +20,22 @@ A full-featured **Student Management** web application built with **React**. Thi
 
 ### 🧾 Student List
 
-![Student List](./Assets/ss1.png)
+![Student List](./Assets/ss1.jpg)
 
 ---
 
 ### ➕ Add Student
 
-![Add Student](./Assets/ss3.png)
+![Add Student](./Assets/ss3.jpg)
 
 ---
 
 ### ✏️ Edit Student
 
-![Edit Student](./Assets/ss4.png)
+![Edit Student](./Assets/ss4.jpg)
 
 ---
 
 ### 🔍 Search Student
 
-![Search Student](./Assets/ss2.png)
+![Search Student](./Assets/ss2.jpg)
